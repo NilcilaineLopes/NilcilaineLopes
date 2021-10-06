@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**NilcilaineLopes/NilcilaineLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Olá, eu sou Nilcilaine 👋
 - 👩‍🎓Sou acadêmica do curso de Tecnologia em Análise e Desenvolvimento de Sistemas.
 - 🌸 Atualmente busco estou aperfeiçoando meus conhecimentos em Java e estou aprendedo Python. 
 - 🖤💻 Tenho carinho especial por back end mas estou disposta a tentar outras coisas.
