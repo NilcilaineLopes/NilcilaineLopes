@@ -1,7 +1,7 @@
 ### Olá, eu sou Nilcilaine 👋
 
 
-- 👩‍🎓Sou acadêmica do curso de Tecnologia em Análise e Desenvolvimento de Sistemas.
+- 👩‍🎓 Sou acadêmica do curso de Tecnologia em Análise e Desenvolvimento de Sistemas.
 - 🌸 Atualmente estou aperfeiçoando meus conhecimentos em Java e estou aprendedo Python. 
 - 🖤💻 Tenho carinho especial por back end mas estou disposta a tentar outras coisas.
 
