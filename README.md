@@ -2,7 +2,7 @@
 
 
 - 👩‍🎓Sou acadêmica do curso de Tecnologia em Análise e Desenvolvimento de Sistemas.
-- 🌸 Atualmente busco estou aperfeiçoando meus conhecimentos em Java e estou aprendedo Python. 
+- 🌸 Atualmente estou aperfeiçoando meus conhecimentos em Java e estou aprendedo Python. 
 - 🖤💻 Tenho carinho especial por back end mas estou disposta a tentar outras coisas.
 
 - 📩 nilcilopes2015@gmail.com / https://www.linkedin.com/in/nilcilainelopes/ 
