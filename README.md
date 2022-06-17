@@ -2,7 +2,7 @@
 
 
 - 👩‍🎓 Sou acadêmica do curso de Tecnologia em Análise e Desenvolvimento de Sistemas.
-- 🌸 Atualmente estou aperfeiçoando meus conhecimentos em Java e estou aprendedo Angular. 
+- 🌸 Atualmente estou aperfeiçoando meus conhecimentos em Java e Angular. 
 - 🖤💻 Tenho carinho especial por back end mas estou disposta a tentar outras coisas.
 
 - 📩 nilcilopes2015@gmail.com / https://www.linkedin.com/in/nilcilainelopes/ 
